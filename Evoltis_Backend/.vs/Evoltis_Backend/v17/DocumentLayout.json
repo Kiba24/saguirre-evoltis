@@ -1,0 +1,311 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\dto\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\dto\\usergetmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\dto\\usergetmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\commands\\createuser\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A496EC-B60F-4802-A782-E2591F226005}|Domain\\Domain.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A496EC-B60F-4802-A782-E2591F226005}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A496EC-B60F-4802-A782-E2591F226005}|Domain\\Domain.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\domain\\entities\\subscriptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A496EC-B60F-4802-A782-E2591F226005}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subscriptionentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\web\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|solutionrelative:web\\controllers\\subscriptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\web\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|solutionrelative:web\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4FACB4D-BA45-4482-93E6-317FD8EB200E}|Infraestructure\\Infraestructure.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\infraestructure\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4FACB4D-BA45-4482-93E6-317FD8EB200E}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\commands\\createuser\\createuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\commands\\createuser\\createuservalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\subscription\\queries\\getallsubscriptionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\subscription\\queries\\getallsubscriptionsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\queries\\getallusersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C99E77-D109-418E-93F9-32064430B72A}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\subscription\\commands\\createsubscriptioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\subscription\\commands\\createsubscriptioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\subscription\\dto\\createsubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\subscription\\dto\\createsubscriptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\common\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|c:\\users\\msi\\source\\repos\\evoltis_backend\\application\\user\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CD1F2E1-138F-4309-8824-80C45526539C}|Application\\Application.csproj|solutionrelative:application\\user\\commands\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSubscriptionCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Commands\\CreateSubscriptionCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Subscription\\Commands\\CreateSubscriptionCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Commands\\CreateSubscriptionCommand.cs",
+              "RelativeToolTip": "Application\\Subscription\\Commands\\CreateSubscriptionCommand.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwDAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:20:38.952Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T10:55:54.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Domain\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Domain\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:53:42.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserValidation.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\CreateUser\\CreateUserValidation.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Commands\\CreateUser\\CreateUserValidation.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\CreateUser\\CreateUserValidation.cs",
+              "RelativeToolTip": "Application\\User\\Commands\\CreateUser\\CreateUserValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:53:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserGetMeDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserGetMeDto.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Dto\\UserGetMeDto.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserGetMeDto.cs",
+              "RelativeToolTip": "Application\\User\\Dto\\UserGetMeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:53:11.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserCreateDto.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Dto\\UserCreateDto.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserCreateDto.cs",
+              "RelativeToolTip": "Application\\User\\Dto\\UserCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:52:54.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "RelativeToolTip": "Application\\User\\Commands\\CreateUser\\CreateUserCommand.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:52:51.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllSubscriptionsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Queries\\GetAllSubscriptionsQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Subscription\\Queries\\GetAllSubscriptionsQuery.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Queries\\GetAllSubscriptionsQuery.cs",
+              "RelativeToolTip": "Application\\Subscription\\Queries\\GetAllSubscriptionsQuery.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:48:57.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LocationController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:48:25.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubscriptionEntity.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Domain\\Entities\\SubscriptionEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SubscriptionEntity.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Domain\\Entities\\SubscriptionEntity.cs",
+              "RelativeToolTip": "Domain\\Entities\\SubscriptionEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:46:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:40:35.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriptionController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\SubscriptionController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\SubscriptionController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Web\\Controllers\\SubscriptionController.cs",
+              "RelativeToolTip": "Web\\Controllers\\SubscriptionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:40:55.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateSubscriptionDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Dto\\CreateSubscriptionDto.cs",
+              "RelativeDocumentMoniker": "Application\\Subscription\\Dto\\CreateSubscriptionDto.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Subscription\\Dto\\CreateSubscriptionDto.cs",
+              "RelativeToolTip": "Application\\Subscription\\Dto\\CreateSubscriptionDto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:33:00.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Infraestructure\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Infraestructure\\Services\\LocationService.cs",
+              "RelativeToolTip": "Infraestructure\\Services\\LocationService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:19:46.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Dto\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Dto\\UserUpdateDto.cs",
+              "RelativeToolTip": "Application\\User\\Dto\\UserUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:16:55.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "Application\\User\\Commands\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:16:45.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetAllUsersQuery.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Queries\\GetAllUsersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\User\\Queries\\GetAllUsersQuery.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\User\\Queries\\GetAllUsersQuery.cs",
+              "RelativeToolTip": "Application\\User\\Queries\\GetAllUsersQuery.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:54:59.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\Evoltis_Backend\\Application\\Common\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T03:53:42.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

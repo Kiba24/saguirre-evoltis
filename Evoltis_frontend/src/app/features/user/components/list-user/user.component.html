@@ -1,0 +1,36 @@
+<p-table [value]="(users$ | async) || []" [paginator]="true" [rows]="10" [globalFilterFields]="['id', 'name', 'last_name', 'location_id']" #dt>
+  <ng-template pTemplate="header">
+      <tr>
+          <th pSortableColumn="id">
+              ID <p-sortIcon field="id"></p-sortIcon>
+              <input pInputText type="text" (input)="filter($event, 'id')" placeholder="Search by ID">
+          </th>
+          <th pSortableColumn="name">
+              Name <p-sortIcon field="name"></p-sortIcon>
+              <input pInputText type="text" (input)="filter($event, 'name')" placeholder="Search by Name">
+          </th>
+          <th pSortableColumn="last_name">
+              Last Name <p-sortIcon field="last_name"></p-sortIcon>
+              <input pInputText type="text" (input)="filter($event, 'last_name')" placeholder="Search by Last Name">
+          </th>
+          <th pSortableColumn="location_id">
+              Location ID <p-sortIcon field="location_id"></p-sortIcon>
+              <input pInputText type="text" (input)="filter($event, 'location_id')" placeholder="Search by Location ID">
+          </th>
+      </tr>
+  </ng-template>
+
+  <ng-template pTemplate="body" let-user>
+      <tr>
+          <td>{{ user.id }}</td>
+          <td>{{ user.name }}</td>
+          <td>{{ user.last_name }}</td>
+          <td>{{ user.location_id }}</td>
+      </tr>
+  </ng-template>
+
+
+</p-table>
+<p-button label="New User" routerLink="/users/new"></p-button>
+
+
